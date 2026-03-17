@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'finweb-darien'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2F180FCFF9344A978CAE3BD5D38EFDCD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_85437F0DC8E74242A8A306E2D4585C2F }}
